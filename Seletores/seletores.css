@@ -1,0 +1,60 @@
+body {
+    color:darkgray;
+    background-color: #bdc3c7;
+}
+   
+h1 {
+    color: #9b59b6;
+}
+
+h2 {
+    color: orange;
+}
+
+li {
+    color: #0000ff;
+}
+
+p {
+    background-color: yellow;
+    font-size: 25px;   
+}
+
+input {
+    border: 3px solid red;
+    margin-left: 50px;
+}
+
+.hello {
+    background-color: white;
+}
+
+#special {
+    background-color: rgb(66, 66, 250);
+}
+
+em {
+    color: white;
+    font-size: 20px;
+}
+
+label {
+    text-transform: uppercase;
+}
+
+#special::first-letter {
+    color: green;
+    font-size: 100px;
+}
+
+h1:hover {
+    color:blue;
+}
+
+a:visited {
+    color: darkgray;
+}
+a:hover {
+    color: darkgray;
+    border: 1px solid red;
+}
